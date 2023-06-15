@@ -1,4 +1,4 @@
-# Invoce Total Console App
+# Invoce Total Windows Form App
 >A windows form app to calculate invoice total.
 
 ## Table of contents
