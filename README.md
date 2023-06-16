@@ -18,14 +18,14 @@ The goal of this project is to show my portifolio to the world.
 ![Invoice Total](./InvoiceTotal.png)
 
 ## Technologies
-* 
+* Visual Studio
 
 ## Setup
-* 
+* Installed Visual Studio
 
 ## Features
 Features ready:
-*
+* Calculate the invoice total
 
 To-do list:
 * None
@@ -34,7 +34,7 @@ To-do list:
 Project is: _finished_
 
 ## Inspiration
-Project based on C# I read.
+Project based on C# book I read.
 
 ## Contact
 Created by Julius Mushi - feel free to contact me!
