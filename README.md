@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-![Invoice Total](./InvoiceTotal.PNG)
+![Invoice Total](./InvoiceTotal.png)
 
 ## Technologies
 * 
